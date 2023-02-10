@@ -1,3 +1,8 @@
+:root{
+  --orange:EE9B00;
+  --blue:0A9396;
+  --red:9B2226;
+}
 body {
   padding: 0px;
   margin: 0px;
