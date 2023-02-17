@@ -9,6 +9,7 @@ body {
   padding: 0px;
   margin: 0px;
   font-family: "Helvetica", sans-serif;
+  color: var(--blue);
   overflow: hidden;
 }
 
@@ -54,7 +55,7 @@ body {
   position: absolute;
   left: 0;
   top: 203px;
-  background-color: white;
+  background-color: var(--orange);
   width: 100vw;
   z-index: 100;
   margin: 0;
@@ -107,6 +108,7 @@ body {
   text-align: center;
   font-family: 'Parisienne', cursive;
   font-size: 1.2em;
+  color: var(--red);
   padding: 0 5px;
 }
 
@@ -176,6 +178,7 @@ h1 {
   margin: 0;
   font-size: 1.5em;
   font-family: 'Josefin Slab', serif;
+  color: var(--muster);
 }
 
 h2 {
