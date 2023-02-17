@@ -105,6 +105,7 @@ body {
 .chapter-header {
   display: block;
   text-align: center;
+  font-family: 'Parisienne', cursive;
   font-size: 1.2em;
   padding: 0 5px;
 }
@@ -174,6 +175,7 @@ a.source:visited {
 h1 {
   margin: 0;
   font-size: 1.5em;
+  font-family: 'Josefin Slab', serif;
 }
 
 h2 {
