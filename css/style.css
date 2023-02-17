@@ -1,7 +1,9 @@
 :root{
-  --orange:EE9B00;
-  --blue:0A9396;
-  --red:9B2226;
+  --muster: #EE9B00;
+  --teal: #0A9396;
+  --red: #9B2226;
+  --orange: #CA6702;
+  --blue: #005F73;
 }
 body {
   padding: 0px;
